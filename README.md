@@ -1,3 +1,8 @@
+List Anggota : 
+Rizqiana Nurhafizh - 22052011099 : Pembuatan halaman web
+Muhammad Dena - 21552011440 : Pembuatan halaman layanan dan backend
+Saepul Hidayat - 22552011126 : Analisa tampilan web dan  rancangan web 
+
 
 # Company Profile Website
 
